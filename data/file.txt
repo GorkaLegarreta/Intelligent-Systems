@@ -1,0 +1,7 @@
+7;7                   
+L;R;L;R;R;R;L;R;L;R;R;L;L;L;L;R;L;R;L;R;L;R;R;R;R;R;L;R;L;L;L;R;L;L;R;R;R;R;L;L;L;R;L;R;L;R;L;R;L
+6,0;0,6                   
+1,2;2,2;2,5;4,4;5,3;;1,2;5,2;3,5;                   
+
+
+
